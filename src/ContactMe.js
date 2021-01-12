@@ -130,10 +130,6 @@ function ContactMe(){
         <LinkedInIcon/>
       </IconButton>
 
-      <IconButton  className={classes.icon} target="_blank" rel="noreferrer"
-      href='https://api.whatsapp.com/send?phone=+525540874892'>
-        <WhatsAppIcon/>
-      </IconButton>
 
     </div>
 
